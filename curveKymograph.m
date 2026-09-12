@@ -39,6 +39,7 @@ function sizeCD = curveKymograph(nbSlices,nbImages,path,ext)
 if nargin==0
     nbSlices=5;
     nbImages=9;
+    % EDIT: hardcoded absolute path to the original author's machine
     path = 'C:\ImagesForKymograph';
     ext = 'tif';
 end  
