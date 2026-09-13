@@ -1,3 +1,5 @@
+## CurvedSpeckleKymograph
+
 ## Quick start
 
 This repository implements a curved-line kymograph extraction function
@@ -11,7 +13,7 @@ interactively for its input image sequence and the curve to trace.
   along a curve selected by clicking points on the image (fit with a
   spline if 3 or more points are chosen), using `getFilenameBody.m`.
 - `getFilenameBody.m` -- a filename-parsing helper.
-- `media/` -- an example kymograph output image.
+- [`media/`](media/) -- an example kymograph output image.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
