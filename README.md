@@ -1,4 +1,4 @@
-## CurvedSpeckleKymograph
+## Curved Speckle Kymograph
 
 Matlab code I wrote to implement a curved line kymograph.
 
