@@ -3,7 +3,7 @@
 ## Quick start
 
 This repository implements a curved-line kymograph extraction function
-in MATLAB. See [DEPENDENCIES.md](DEPENDENCIES.md) for the Image
+in Matlab. See [DEPENDENCIES.md](DEPENDENCIES.md) for the Image
 Processing Toolbox requirement. `curveKymograph.m` prompts
 interactively for its input image sequence and the curve to trace.
 

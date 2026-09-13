@@ -1,8 +1,8 @@
 # Dependencies
 
-No specific MATLAB version is recorded. `curveKymograph.m` uses
-`imshow` and `getline`, which require MATLAB's **Image Processing
-Toolbox**. `spline`, `imread`, and `uigetfile` are core MATLAB.
+No specific Matlab version is recorded. `curveKymograph.m` uses
+`imshow` and `getline`, which require Matlab's **Image Processing
+Toolbox**. `spline`, `imread`, and `uigetfile` are core Matlab.
 
 ## Input/output
 
